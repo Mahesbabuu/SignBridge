@@ -1,0 +1,15 @@
+0 Hello
+1 Thank You
+2 Yes
+3 No
+4 Please
+5 Like
+6 Dislike
+7 Call me
+8 Peace
+9 Food
+10 Nice
+11 Good Luck
+12 Talk
+13 Look
+14 I Love You
